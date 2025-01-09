@@ -1,29 +1,56 @@
-```markdown
+
 # Unit Converter Jetpack Compose 🌟
 
-A **Jetpack Compose** project showcasing a minimal Unit Converter app with two dropdowns, an input box, and a dynamic output display.
+A minimal **Jetpack Compose** project designed for converting units with a simple and intuitive interface. It’s perfect for anyone looking to create a beginner-friendly Jetpack Compose app or learn about dropdowns, text inputs, and dynamic data updates.
 
-## 🖥️ Screenshots
+## Features
 
-Take a look at the app in action!
+- **Two Dropdowns**: Select the input and output units easily.  
+- **Input Box**: Enter the value to be converted.  
+- **Dynamic Output**: See the converted result instantly.
 
-| Screen 1                     | Screen 2                     | Screen 3                     | Screen 4                     |
-|------------------------------|------------------------------|------------------------------|------------------------------|
-| ![Output Sample 1](outputSample1.png) | ![Output Sample 2](outputSample2.png) | ![Output Sample 3](outputSample3.png) | ![Output Sample 4](outputSample4.png) |
+## Screenshots
 
-## 🚀 Getting Started
+| Screen 1                     | Screen 2                     |
+|------------------------------|------------------------------|
+| ![Output Sample 2](https://i.postimg.cc/3RWSTTgx/output-Sample2.png) | ![Output Sample 1](https://i.postimg.cc/VNfZKMvM/output-Sample1.png) |
 
-Follow these steps to run the project on your machine:
+| Screen 3                     | Screen 4                     |
+|------------------------------|------------------------------|
+| ![Output Sample 4](https://i.postimg.cc/wvPWxGVc/output-Sample4.png) | ![Output Sample 3](https://i.postimg.cc/KY0qwz3W/output-Sample3.png) |
 
-1. Clone this repository to your local machine:
+## Tech Stack
+
+- **Jetpack Compose**: For building modern UI with less code.  
+- **Kotlin**: The primary programming language for this project.  
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/Progambler227788/UnitConverterJetpackCompose.git
    ```
-2. Open the project in **Android Studio**.
-3. Build and run the app on your emulator or physical device.
-```
+2. Open the project in **Android Studio**.  
+3. Sync the Gradle files and install the necessary dependencies.  
+4. Run the app on an emulator or physical device.  
 
-### Key Notes:
-1. The table and markdown syntax are formatted for proper rendering on GitHub.
-2. Replace `https://github.com/Progambler227788/UnitConverterJetpackCompose.git` with the correct repository URL if different.
-3. Ensure that the image files `outputSample1.png`, `outputSample2.png`, `outputSample3.png`, and `outputSample4.png` are in the same directory as the `README.md` file. GitHub fetches the images relative to the `README.md` file location.
+## Usage/Examples
+
+1. Select the units to convert (e.g., `Meters` to `Feet`).  
+2. Enter the value in the input box.  
+3. The converted value will automatically appear in the output field.
+
+## Contributing
+
+Contributions are always welcome!  
+
+- Fork the repository.  
+- Create a new branch for your feature or bug fix.  
+- Submit a pull request explaining your changes.  
+
+## Feedback
+
+If you have any feedback, please reach out to me via the Issues tab or at my email: `talhaatif573@gmail.com`.
+
